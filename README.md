@@ -2,7 +2,9 @@
 
 Can we identify distinct fighter profiles in competitive Brazilian Jiu-Jitsu, and the strategies associated with winning? An unsupervised learning analysis of ~60,000 professional BJJ matches (2010–2025).
 
-> Group project — built with [Touisse](https://github.com/<touisse-username>).
+📄 **[Read the full report](report.pdf)** for the complete analysis, including detailed transition percentages and cluster-by-cluster breakdowns not covered below.
+
+> Group project — built with [El Habib Touisse](https://github.com/elhabib-touisse).
 
 ## Motivation
 
@@ -45,6 +47,8 @@ Each clustering (submission-based vs. points-based) was applied to the other's f
 - Fighter profiles are strongly stable year-over-year in the cumulative view (up to 99.8% self-transition for Veterans) but far more volatile in the annual view — a fighter's "type" is a career-long identity, not a season-to-season label.
 - Submission defense and points mastery behave as largely independent skills: the most dominant fighters combine both rather than excelling at just one.
 
+*These are the headline results — the [full report](report.pdf) goes into much more depth: exact transition percentages between profiles, year-by-year cluster growth, and a full breakdown of how each submission profile behaves when a fight goes to points (and vice versa).*
+
 ## Tech Stack
 
 - **Language:** Python
@@ -76,4 +80,4 @@ This project was submitted as a graded exam for a Master's-level Machine Learnin
 ## Authors
 
 **Valentin Cherin** — [GitHub](https://github.com/votre-profil)
-**Touisse [Nom de famille]**
+**El Habib Touisse** — [GitHub](https://github.com/elhabib-touisse)
