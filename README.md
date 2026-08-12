@@ -79,5 +79,5 @@ This project was submitted as a graded exam for a Master's-level Machine Learnin
 
 ## Authors
 
-**Valentin Cherin** — [GitHub](https://github.com/votre-profil)
+**Valentin Cherin** — [GitHub](https://github.com/vacheee)
 **El Habib Touisse** — [GitHub](https://github.com/elhabib-touisse)
